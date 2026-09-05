@@ -6,7 +6,6 @@
 
 ## 🎓 Certificaciones
 ```text
-Week: 07 January, 2021 - 14 January, 2021
 
 Google Cybersecurity Professional Certificate            ████████████████████████   100 % 
 SC-401 - Administrador de seguridad de la información    █████████████████▓░░░░░░   80 % 
