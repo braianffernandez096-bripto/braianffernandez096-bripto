@@ -33,7 +33,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 ## 📫 Contacto
-[![LinkedIn]<a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>(https://www.linkedin.com/in/braian-fernandez96)
+<a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 <!--
 **braianffernandez096-bripto/braianffernandez096-bripto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
