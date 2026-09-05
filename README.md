@@ -5,10 +5,14 @@
 ---
 
 ## 🎓 Certificaciones
-- Google Cybersecurity Professional Certificate
-- En progreso: SC-401 - Administrador de seguridad de la información
-- En progreso: CompTIA Network+
-- En progreso: CompTIA CySA+
+```text
+Week: 07 January, 2021 - 14 January, 2021
+
+Google Cybersecurity Professional Certificate            ████████████████████████   100 % 
+SC-401 - Administrador de seguridad de la información    █████████████████▓░░░░░░   80 % 
+CompTIA Network+                                         ███████▓░░░░░░░░░░░░░░░░   30 % 
+CompTIA CySA+                                            ██████▓░░░░░░░░░░░░░░░░   20 % 
+```
 
 ## 🧪 Proyectos destacados
 
