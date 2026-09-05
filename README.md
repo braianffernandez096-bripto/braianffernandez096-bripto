@@ -1,4 +1,4 @@
-## 👋 Hola, soy Braian Fernandez
+<h1 align="center">Hola, soy Braian Fernandez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ![Status](https://img.shields.io/badge/Buscando-Oportunidad%20SOC%20L1%20%2F%20Help%20Desk-brightgreen)
 ![Cert](https://img.shields.io/badge/Google-Cybersecurity%20Professional-4285F4?logo=google&logoColor=white)
