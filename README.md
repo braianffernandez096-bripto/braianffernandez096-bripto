@@ -1,6 +1,6 @@
-# 👋 Hola, soy Braian Fernández
+## 👋 Hola, soy Braian Fernández
 
-**Analista SOC en formación | Buscando mi primera oportunidad en SOC L1
+**Analista SOC en formación | Buscando mi primera oportunidad en SOC L1**
 
 ---
 
