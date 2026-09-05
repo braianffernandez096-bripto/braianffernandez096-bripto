@@ -1,6 +1,7 @@
 ## 👋 Hola, soy Braian Fernandez
 
-**Analista SOC en formación | Buscando mi primera oportunidad en SOC L1**
+![Status](https://img.shields.io/badge/Buscando-Oportunidad%20SOC%20L1%20%2F%20Help%20Desk-brightgreen)
+![Cert](https://img.shields.io/badge/Google-Cybersecurity%20Professional-4285F4?logo=google&logoColor=white)
 
 ---
 
