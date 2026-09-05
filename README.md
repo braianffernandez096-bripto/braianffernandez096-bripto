@@ -30,7 +30,7 @@
 `Wazuh` `Sysmon` `Elastic Stack (Elasticsearch/Kibana)` `Snort` `Active Directory` `PowerShell` `Python` `MITRE ATT&CK` `n8n` `Docker`
 
 ## 📫 Contacto
-[LinkedIn](https://www.linkedin.com/in/braian-fernandez96)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Braian%20Fern%C3%A1ndez-0A66C2?logo=linkedin&logoColor=white)[LinkedIn](https://www.linkedin.com/in/braian-fernandez96)
 <!--
 **braianffernandez096-bripto/braianffernandez096-bripto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
