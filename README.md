@@ -4,6 +4,11 @@
 ![Cert](https://img.shields.io/badge/Google-Cybersecurity%20Professional-4285F4?logo=google&logoColor=white)
 
 ---
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-2022-0078D6?logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-IAM-00A4EF)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu%2FKali-FCC624?logo=linux&logoColor=black)
 
 ## 🎓 Certificaciones
 - Google Cybersecurity Professional Certificate
