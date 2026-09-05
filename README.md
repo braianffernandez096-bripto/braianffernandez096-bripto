@@ -1,6 +1,5 @@
 <h1 align="center">Hola, soy Braian Fernandez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-![Status](https://img.shields.io/badge/Buscando-Oportunidad%20SOC%20L1%20%2F%20Help%20Desk-brightgreen)
 ![Cert](https://img.shields.io/badge/Google-Cybersecurity%20Professional-4285F4?logo=google&logoColor=white)
 
 ---
@@ -34,7 +33,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 ## 📫 Contacto
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Braian%20Fern%C3%A1ndez-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/braian-fernandez96)
+[![LinkedIn]<a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>(https://www.linkedin.com/in/braian-fernandez96)
 <!--
 **braianffernandez096-bripto/braianffernandez096-bripto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
