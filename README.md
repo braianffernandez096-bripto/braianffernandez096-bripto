@@ -21,13 +21,17 @@
 | ⚔️ [SOC-Full-Attack-Chain-LAB](https://github.com/braianffernandez096-bripto/SOC-Full-Attack-Chain-LAB) | Reconstrucción de una cadena de ataque completa correlacionando SIEM, logs de Windows y tráfico de red |
 
 ## 🛠️ Stack
-
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-2022-0078D6?logo=windows&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-IAM-00A4EF)
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu%2FKali-FCC624?logo=linux&logoColor=black)
-`Wazuh` `Sysmon` `Elastic Stack (Elasticsearch/Kibana)` `Snort` `Active Directory` `PowerShell` `Python` `MITRE ATT&CK` `n8n` `Docker`
+![Wazuh](https://img.shields.io/badge/Wazuh-4.14.7-purple)
+![Elastic Stack](https://img.shields.io/badge/Elastic%20Stack-Elasticsearch%2FKibana-005571?logo=elasticsearch&logoColor=white)
+![Snort](https://img.shields.io/badge/NIDS-Snort-orange)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-red)
+![n8n](https://img.shields.io/badge/Orchestration-n8n-red)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 ## 📫 Contacto
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Braian%20Fern%C3%A1ndez-0A66C2?logo=linkedin&logoColor=white)[LinkedIn](https://www.linkedin.com/in/braian-fernandez96)
