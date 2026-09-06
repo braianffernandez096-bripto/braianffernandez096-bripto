@@ -14,7 +14,7 @@ Profesional en formación en Ciberseguridad, en búsqueda de mi primera oportuni
 - ☁️ Actualmente ampliando mis conocimientos en el mundo de la ciberseguridad, y trabajando en nuevas certificaciones.
 - 🤝 Busco sumarme a un equipo de seguridad donde pueda seguir creciendo y aportar una mirada práctica y orientada a la mejora continua.
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGxqN2V4c28yMDJoNWR2M3dnMDB2a2hiaGhoeDF6N3JsNXBldjN2aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2WMXMZpfreXGj9N3op/giphy.gif" width="220" alt="mi gif" />
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGxqN2V4c28yMDJoNWR2M3dnMDB2a2hiaGhoeDF6N3JsNXBldjN2aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2WMXMZpfreXGj9N3op/giphy.gif" width="250" alt="mi gif" />
 
 
 ### 🎓 Certificaciones
