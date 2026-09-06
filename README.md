@@ -12,7 +12,6 @@ Google Cybersecurity Professional Certificate            ███████�
 SC-401 - Administrador de seguridad de la información    █████████████████▓░░░░░░   80 % 
 CompTIA Network+                                         ███████▓░░░░░░░░░░░░░░░░   30 % 
 CompTIA CySA+                                            █████▓░░░░░░░░░░░░░░░░░░   20 % 
-<br clear="both">
 ```
 
 ## 🧪 Proyectos destacados
