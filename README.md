@@ -23,7 +23,7 @@ CompTIA CySA+                                            █████▓░�
 | 🏢 [TechSolutions-AD-IAM-Lab](https://github.com/braianffernandez096-bripto/TechSolutions-AD-IAM-Lab) | Administración empresarial de Active Directory: usuarios, grupos, GPO, permisos NTFS y soporte Help Desk |
 | ⚔️ [SOC-Full-Attack-Chain-LAB](https://github.com/braianffernandez096-bripto/SOC-Full-Attack-Chain-LAB) | Reconstrucción de una cadena de ataque completa correlacionando SIEM, logs de Windows y tráfico de red |
 
-## 🛠️ Stack
+### 🛠️ Stack
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-2022-0078D6?logo=windows&logoColor=white)
@@ -36,7 +36,7 @@ CompTIA CySA+                                            █████▓░�
 ![n8n](https://img.shields.io/badge/Orchestration-n8n-red)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-## 📫 Contacto
+### 📫 Contacto
 <a href="https://www.linkedin.com/in/braian-fernandez96" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50"/></a>
 <!--
 **braianffernandez096-bripto/braianffernandez096-bripto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
