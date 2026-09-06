@@ -24,6 +24,10 @@ Profesional en formación en Ciberseguridad, en búsqueda de mi primera oportuni
 ![Stack](https://img.shields.io/badge/Elastic-Stack-005571?logo=elasticsearch&logoColor=white)
 ![MITRE](https://img.shields.io/badge/MITRE-ATT%26CK-CC0000)
 
+<img align="right" src="TU_URL_DE_IMAGEN" width="300" alt="imagen" />
+
+### 🎓 Certificaciones
+
 
 ### 🎓 Certificaciones
 ```text
