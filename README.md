@@ -2,13 +2,11 @@
 
 <p align="center"><picture align="left"><img align="left" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
 ###Sobre mí
-
 Profesional en formación en Ciberseguridad, en búsqueda de mi primera oportunidad como **Analista SOC L1**.
-
-- 🎓 Certificado **Google Cybersecurity Professional**, con formación complementaria en TryHackMe (Pre Security, Cyber Security 101, avanzando en SOC Level 1).
+- 🎓 Certificado **Google Cybersecurity Professional**, con formación complementaria en TryHackMe.
 - 🔍 Me especializo en **detección de amenazas, respuesta a incidentes y correlación de eventos** usando SIEM (Wazuh, Elastic Stack), Sysmon, Winlogbeat y Snort.
 - 🧪 Construyo labs propios donde simulo ataques reales (mapeados a MITRE ATT&CK) y desarrollo la detección, documentación y reporte ejecutivo de punta a punta — no solo el ataque, sino todo el ciclo de respuesta.
-- ☁️ Actualmente ampliando mi portafolio hacia **seguridad en la nube (AWS)** e integrando escenarios híbridos con Active Directory.
+- ☁️ Actualmente ampliando mis conocimientos en el mundo de la ciberseguridad, y trabajando en nuevas certificaciones.
 - 🤝 Busco sumarme a un equipo de seguridad donde pueda seguir creciendo y aportar una mirada práctica y orientada a la mejora continua.
 
 📫 Podés encontrarme en los proyectos de abajo o contactarme por LinkedIn / correo.
