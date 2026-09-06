@@ -19,14 +19,17 @@ Profesional en formación en Ciberseguridad, en búsqueda de mi primera oportuni
 
 ### 🎓 Certificaciones
 
-![Cert](https://img.shields.io/badge/Google-Cybersecurity%20Professional-4285F4?logo=google&logoColor=white) ![Cert](https://img.shields.io/badge/SC--401-Administrador%20de%20Seguridad-0078D4?logo=microsoft&logoColor=white) ![Cert](https://img.shields.io/badge/CompTIA-Network%2B-C8202F?logo=comptia&logoColor=white) ![Cert](https://img.shields.io/badge/CompTIA-CySA%2B-C8202F?logo=comptia&logoColor=white)
+```text
 
-\`\`\`text
 Google Cybersecurity Professional Certificate            ████████████████████████   100 % 
+
 SC-401 - Administrador de seguridad de la información    █████████████████▓░░░░░░   80 % 
+
 CompTIA Network+                                         ███████▓░░░░░░░░░░░░░░░░   30 % 
-CompTIA CySA+                                             █████▓░░░░░░░░░░░░░░░░░░   20 % 
-\`\`\`
+
+CompTIA CySA+                                            █████▓░░░░░░░░░░░░░░░░░░   20 % 
+
+```
 
 ### 🧪 Proyectos destacados
 
