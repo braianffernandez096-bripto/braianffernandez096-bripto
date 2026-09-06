@@ -14,7 +14,7 @@ CompTIA Network+                                         ███████�
 CompTIA CySA+                                            █████▓░░░░░░░░░░░░░░░░░░   20 % 
 ```
 
-### 🧪 Proyectos destacados**
+### 🧪 Proyectos destacados
 
 | Proyecto | Qué demuestra |
 |---|---|
