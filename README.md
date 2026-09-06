@@ -1,7 +1,8 @@
 <h1 align="center">Hola, soy Braian Fernandez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center"><picture align="left"><img align="left" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
-###Sobre mí
+
+### Sobre mí
 Profesional en formación en Ciberseguridad, en búsqueda de mi primera oportunidad como **Analista SOC L1**.
 - 🎓 Certificado **Google Cybersecurity Professional**, con formación complementaria en TryHackMe.
 - 🔍 Me especializo en **detección de amenazas, respuesta a incidentes y correlación de eventos** usando SIEM (Wazuh, Elastic Stack), Sysmon, Winlogbeat y Snort.
