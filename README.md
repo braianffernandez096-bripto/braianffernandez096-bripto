@@ -19,8 +19,6 @@ Profesional en formación en Ciberseguridad, en búsqueda de mi primera oportuni
 
 ### 🎓 Certificaciones
 
-### 🎓 Certificaciones
-
 ```text
 
 Google Cybersecurity Professional Certificate            ████████████████████████   100 % 
