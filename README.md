@@ -5,7 +5,7 @@
 ![Cert](https://img.shields.io/badge/Google-Cybersecurity%20Professional-4285F4?logo=google&logoColor=white)
 
 
-🎓 Certificaciones
+#🎓 Certificaciones
 ```text
 
 Google Cybersecurity Professional Certificate            ████████████████████████   100 % 
@@ -14,7 +14,7 @@ CompTIA Network+                                         ███████�
 CompTIA CySA+                                            █████▓░░░░░░░░░░░░░░░░░░   20 % 
 ```
 
-## 🧪 Proyectos destacados
+# 🧪 Proyectos destacados
 
 | Proyecto | Qué demuestra |
 |---|---|
