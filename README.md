@@ -17,6 +17,12 @@ Profesional en formación en Ciberseguridad, en búsqueda de mi primera oportuni
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGxqN2V4c28yMDJoNWR2M3dnMDB2a2hiaGhoeDF6N3JsNXBldjN2aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2WMXMZpfreXGj9N3op/giphy.gif" width="300" alt="mi gif" />
 
 ![Cert](https://img.shields.io/badge/Google-Cybersecurity%20Professional-4285F4?logo=google&logoColor=white)
+![Cert](https://img.shields.io/badge/SC--401-Administrador%20de%20Seguridad-0078D4?logo=microsoft&logoColor=white)
+![Cert](https://img.shields.io/badge/CompTIA-Network%2B-C8202F?logo=comptia&logoColor=white)
+![Cert](https://img.shields.io/badge/CompTIA-CySA%2B-C8202F?logo=comptia&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM-Wazuh-00A8E1?logo=wazuh&logoColor=white)
+![Stack](https://img.shields.io/badge/Elastic-Stack-005571?logo=elasticsearch&logoColor=white)
+![MITRE](https://img.shields.io/badge/MITRE-ATT%26CK-CC0000)
 
 
 ### 🎓 Certificaciones
