@@ -6,6 +6,8 @@
 
 
 ## 🎓 Certificaciones
+<br clear="both">
+
 ```text
 
 Google Cybersecurity Professional Certificate            ████████████████████████   100 % 
