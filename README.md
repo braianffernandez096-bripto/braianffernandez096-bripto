@@ -1,5 +1,18 @@
 <h1 align="center">Hola, soy Braian Fernandez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<p align="center"><picture align="left"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
+### 👋 Sobre mí
+
+Soy **Braian Fernandez**, profesional en formación en Ciberseguridad, en búsqueda de mi primera oportunidad como **Analista SOC L1**.
+
+- 🎓 Certificado **Google Cybersecurity Professional**, con formación complementaria en TryHackMe (Pre Security, Cyber Security 101, avanzando en SOC Level 1).
+- 🔍 Me especializo en **detección de amenazas, respuesta a incidentes y correlación de eventos** usando SIEM (Wazuh, Elastic Stack), Sysmon, Winlogbeat y Snort.
+- 🧪 Construyo labs propios donde simulo ataques reales (mapeados a MITRE ATT&CK) y desarrollo la detección, documentación y reporte ejecutivo de punta a punta — no solo el ataque, sino todo el ciclo de respuesta.
+- ☁️ Actualmente ampliando mi portafolio hacia **seguridad en la nube (AWS)** e integrando escenarios híbridos con Active Directory.
+- 🤝 Busco sumarme a un equipo de seguridad donde pueda seguir creciendo y aportar una mirada práctica y orientada a la mejora continua.
+
+📫 Podés encontrarme en los proyectos de abajo o contactarme por LinkedIn / correo.
+
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGxqN2V4c28yMDJoNWR2M3dnMDB2a2hiaGhoeDF6N3JsNXBldjN2aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2WMXMZpfreXGj9N3op/giphy.gif" width="300" alt="mi gif" />
 
 ![Cert](https://img.shields.io/badge/Google-Cybersecurity%20Professional-4285F4?logo=google&logoColor=white)
