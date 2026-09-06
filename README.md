@@ -17,17 +17,10 @@ Profesional en formación en Ciberseguridad, en búsqueda de mi primera oportuni
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGxqN2V4c28yMDJoNWR2M3dnMDB2a2hiaGhoeDF6N3JsNXBldjN2aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2WMXMZpfreXGj9N3op/giphy.gif" width="220" alt="mi gif" />
 
 
-![Cert](https://img.shields.io/badge/SC--401-Administrador%20de%20Seguridad-0078D4?logo=microsoft&logoColor=white)
-![Cert](https://img.shields.io/badge/CompTIA-Network%2B-C8202F?logo=comptia&logoColor=white)
-![Cert](https://img.shields.io/badge/CompTIA-CySA%2B-C8202F?logo=comptia&logoColor=white)
-![SIEM](https://img.shields.io/badge/SIEM-Wazuh-00A8E1?logo=wazuh&logoColor=white)
-![Stack](https://img.shields.io/badge/Elastic-Stack-005571?logo=elasticsearch&logoColor=white)
-![MITRE](https://img.shields.io/badge/MITRE-ATT%26CK-CC0000)
-
 ### 🎓 Certificaciones
 ```text
 
-![Cert](https://img.shields.io/badge/Google-Cybersecurity%20Professional-4285F4?logo=google&logoColor=white)            ████████████████████████   100 % 
+Google Cybersecurity Professional Certificate            ████████████████████████   100 % 
 SC-401 - Administrador de seguridad de la información    █████████████████▓░░░░░░   80 % 
 CompTIA Network+                                         ███████▓░░░░░░░░░░░░░░░░   30 % 
 CompTIA CySA+                                            █████▓░░░░░░░░░░░░░░░░░░   20 % 
@@ -43,6 +36,7 @@ CompTIA CySA+                                            █████▓░�
 | ⚔️ [SOC-Full-Attack-Chain-LAB](https://github.com/braianffernandez096-bripto/SOC-Full-Attack-Chain-LAB) | Reconstrucción de una cadena de ataque completa correlacionando SIEM, logs de Windows y tráfico de red |
 
 ### 🛠️ Stack
+![Cert](https://img.shields.io/badge/Google-Cybersecurity%20Professional-4285F4?logo=google&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-2022-0078D6?logo=windows&logoColor=white)
