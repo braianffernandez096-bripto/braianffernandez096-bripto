@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/braianffernandez096-bripto/braianffernandez096-bripto/main/profile-dark_1_.svg" width="100%" alt="banner animado" />
+</p>
+
 <h1 align="center">Hola, soy Braian Fernandez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center"><picture align="left"><img align="left" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture></p>
@@ -24,7 +28,7 @@ Profesional en formación en Ciberseguridad, en búsqueda de mi primera oportuni
 Google Cybersecurity Professional Certificate            ████████████████████████   100 % 
 SC-401 - Administrador de seguridad de la información    █████████████████▓░░░░░░   80 % 
 CompTIA Network+                                         ███████▓░░░░░░░░░░░░░░░░   30 % 
-CompTIA CySA+                                            █████▓░░░░░░░░░░░░░░░░░░   20 % 
+CompTIA CySA+                                             █████▓░░░░░░░░░░░░░░░░░░   20 % 
 
 ```
 
@@ -53,17 +57,3 @@ CompTIA CySA+                                            █████▓░�
 
 ### 📫 Contacto
 <a href="https://www.linkedin.com/in/braian-fernandez96" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50"/></a>
-<!--
-**braianffernandez096-bripto/braianffernandez096-bripto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
