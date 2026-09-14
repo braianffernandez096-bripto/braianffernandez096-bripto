@@ -23,6 +23,7 @@ Profesional en formación en Ciberseguridad, en búsqueda de mi primera oportuni
 
 ### 🎓 Certificaciones
 
+```
 Obtenida
 ✅ Google Cybersecurity Professional Certificate
 
@@ -30,6 +31,8 @@ Próximas certificaciones
 ☐ SC-401 - Administrador de seguridad de la información
 ☐ CompTIA Network+
 ☐ CompTIA CySA+
+
+```
 
 ### 🧪 Proyectos destacados
 
