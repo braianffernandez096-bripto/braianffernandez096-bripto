@@ -28,10 +28,10 @@ Profesional en formación en Ciberseguridad, en búsqueda de mi primera oportuni
 
 | Proyecto | Qué demuestra |
 |---|---|
-| 🔥 [Ransomware-Simulation-Incident-Response-Lab](https://github.com/braianffernandez096-bripto/Ransomware-Simulation-Incident-Response-Lab) | Respuesta a incidentes completa: detección, contención, erradicación, recuperación y reporte ejecutivo (formato ISO 27001) |
-| 🕵️ [Threat-Hunting-Detection-Lab](https://github.com/braianffernandez096-bripto/Threat-Hunting-Detection-Lab) | 12 técnicas MITRE ATT&CK simuladas y detectadas con Wazuh, reglas custom y orquestación automática (n8n) |
-| 🏢 [TechSolutions-AD-IAM-Lab](https://github.com/braianffernandez096-bripto/TechSolutions-AD-IAM-Lab) | Administración empresarial de Active Directory: usuarios, grupos, GPO, permisos NTFS y soporte Help Desk |
-| ⚔️ [SOC-Full-Attack-Chain-LAB](https://github.com/braianffernandez096-bripto/SOC-Full-Attack-Chain-LAB) | Reconstrucción de una cadena de ataque completa correlacionando SIEM, logs de Windows y tráfico de red |
+|  [Ransomware-Simulation-Incident-Response-Lab](https://github.com/braianffernandez096-bripto/Ransomware-Simulation-Incident-Response-Lab) | Respuesta a incidentes completa: detección, contención, erradicación, recuperación y reporte ejecutivo (formato ISO 27001) |
+|  [Threat-Hunting-Detection-Lab](https://github.com/braianffernandez096-bripto/Threat-Hunting-Detection-Lab) | 12 técnicas MITRE ATT&CK simuladas y detectadas con Wazuh, reglas custom y orquestación automática (n8n) |
+|  [TechSolutions-AD-IAM-Lab](https://github.com/braianffernandez096-bripto/TechSolutions-AD-IAM-Lab) | Administración empresarial de Active Directory: usuarios, grupos, GPO, permisos NTFS y soporte Help Desk |
+|  [SOC-Full-Attack-Chain-LAB](https://github.com/braianffernandez096-bripto/SOC-Full-Attack-Chain-LAB) | Reconstrucción de una cadena de ataque completa correlacionando SIEM, logs de Windows y tráfico de red |
 
 ### 🛠️ Stack
 ![Cert](https://img.shields.io/badge/Google-Cybersecurity%20Professional-4285F4?logo=google&logoColor=white)
