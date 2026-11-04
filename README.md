@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/braianffernandez096-bripto/braianffernandez096-bripto/main/profile-dark_1_.svg" width="100%" alt="banner animado" />
 </p>
 
-<h1 align="center">Hola, soy Braian Fernandez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/braianffernandez096-bripto/braianffernandez096-bripto/main/banner-nombre.svg" width="560" alt="Hola, soy Braian Fernandez" /></h1>
 
 <img align="right" src="https://raw.githubusercontent.com/braianffernandez096-bripto/braianffernandez096-bripto/main/Radar.gif" width="230" alt="Radar animado: SIEM con Wazuh y Elastic, 12 técnicas ATT&CK y 37 IoC" />
 
@@ -29,7 +29,7 @@ Profesional en formación en Ciberseguridad, en búsqueda de mi primera oportuni
 |---|---|
 |  [Ransomware-Simulation-Incident-Response-Lab](https://github.com/braianffernandez096-bripto/Ransomware-Simulation-Incident-Response-Lab) | Respuesta a incidentes completa: detección, contención, erradicación, recuperación y reporte ejecutivo (formato ISO 27001) |
 |  [Threat-Hunting-Detection-Lab](https://github.com/braianffernandez096-bripto/Threat-Hunting-Detection-Lab) | 12 técnicas MITRE ATT&CK simuladas y detectadas con Wazuh, reglas custom y orquestación automática (n8n) |
-|  [soc-incident-analyzer](https://github.com/braianffernandez096-bripto/soc-incident-analyzer) | Analizador de logs de SIEM: detecta indicadores de compromiso, correlaciona incidentes, mapea a MITRE ATT&CK y genera el informe técnico en PDF. |
+|  [TechSolutions-AD-IAM-Lab](https://github.com/braianffernandez096-bripto/TechSolutions-AD-IAM-Lab) | Administración empresarial de Active Directory: usuarios, grupos, GPO, permisos NTFS y soporte Help Desk |
 |  [SOC-Full-Attack-Chain-LAB](https://github.com/braianffernandez096-bripto/SOC-Full-Attack-Chain-LAB) | Reconstrucción de una cadena de ataque completa correlacionando SIEM, logs de Windows y tráfico de red |
 
 ### 🛠️ Stack
