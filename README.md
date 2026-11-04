@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/braianffernandez096-bripto/braianffernandez096-bripto/main/profile-dark_1_.svg" width="100%" alt="banner animado" />
 </p>
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/braianffernandez096-bripto/braianffernandez096-bripto/main/banner-nombre.svg" width="560" alt="Hola, soy Braian Fernandez" /></h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/braianffernandez096-bripto/braianffernandez096-bripto/main/banner-nombre.svg?v=3" width="560" alt="Hola, soy Braian Fernandez" /></h1>
 
 <img align="right" src="https://raw.githubusercontent.com/braianffernandez096-bripto/braianffernandez096-bripto/main/Radar.gif" width="230" alt="Radar animado: SIEM con Wazuh y Elastic, 12 técnicas ATT&CK y 37 IoC" />
 
